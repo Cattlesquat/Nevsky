@@ -1,0 +1,261 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<head>
+<style>
+body {background: #eeeeee}
+</style>
+</head>
+    <body>
+
+<h1 style="font-size:40px;"><img src="CoverFrontHalf.png" hspace=20 
+    style="float:right;">&nbsp;&nbsp;&nbsp;Almoravid 1.0</h1>     
+<p style="font-size:18px;">
+This new Almoravid module was created by <b>Brian 
+Reynolds</b>. 
+    
+<br> <br> Special thanks to <b>Game Designer Volko Ruhnke</b> who
+answered numerous esoteric rules questions during development and invited me
+to his house for a hands-on Levy & Campaign learning session; <b>Stephen Stone</b> who 
+created the beautiful "wooden pieces" and drop shadows; <b>John Campbell</b> who gave much useful feedback
+on early versions of the module during development; <b>Wendell Albright</b> who provided several important
+suggestions at the beginning; and <b>Mark Simonitch</b> from GMT who helped with locating all of the art.
+
+<br> <br>The module is presently maintained by <b>Brian 
+Reynolds</b> - please report any problems to 
+<b>brian@brianreynolds.net</b>. 
+                                                       
+ <br> <br>
+    <h2 style="font-size:26px">First Things First</h2><p style="font-size:18px;">
+Under the "Help" menu you will find a link to the latest version of the Almoravid rulebook, in case you are 
+still learning how to play the game itself, or just need to "look up a rule". 
+                                                          <br><br>
+The Almoravid module was developed alongside version 3.6 of VASSAL itself--for example
+support for easily moving/dragging/sending Lord Mats along with all the pieces <i>on</i> 
+the mats was added to VASSAL in order to support the Levy & Campaign series. The module
+therefore uses a quite different interface paradigm from Nevsky (and perhaps other VASSAL
+modules you've used), so please take a few moments to get familiar with 
+it -- although somewhat novel, it is designed to be very intuitive and easy-to-use, 
+and to replicate as closely as possible "the over-the-board experience". We hope you enjoy 
+it!
+
+<br> <br><img src="how_mats.png">
+<h3 style="font-size:22px">1. Lord Mats</h3>
+          <p style="font-size:18px;">Beside the map on each side are "lord mat positions" -- Christian Lords on the left,
+          and Muslim Lords on the right. Clicking or Right-Clicking a mat position produce a menu of possible lord mats
+          to muster into that space. You can muster any lord into any slot. Lord mats muster with all of their appropriate 
+          troops, assets, and vassal markers. A Hidden Lords screen is also provided for each side on the module's toolbar.
+          <br><br>
+          Whenever a Lord Mat is clicked/dragged or otherwise moved, all of his attached troops, vassals, assets, and Arts of War cards
+          will automatically become selected as well, and so will accompany the mat, remaining in their proper positions. If the
+          Lord Mat is rotated (e.g. when constructing a Battle Array), his Mat's "cargo" will be rotated as well. Lord Mats can be 
+          freely dragged around the map screen -- from slot to slot, or to lower region to create a Battle Array. They can also be 
+          dragged onto their side's "Hidden Lords" screen if playing with that variant. 
+          <br><br>
+          <img src="how_mats_menu.png"><br>
+          Right+Clicking a Lord Mat will produce a menu of options for the convenient addition of additional counters, as
+          well as the ability to "teleport" the Lord Mat directly between e.g. the main area and the Hidden Lords area, as
+          well as to-and-from the Battle Array down at the very bottom of the main display. Lord Mats will automatically be
+          rotated/unrotated when teleporting to and from the Battle Array. At all times Lord Mats can also be manually dragged,
+          rotated, etc -- using the "send to" functions is entirely optional.
+          <br><br>
+          <img src="how_mats_click.png"><br>
+          Individual counters and cards on/under a Lord's Mat can be individually clicked in order to adjust their position on
+          the mat, move them from mat to mat, or to move them elsewhere. They can also be right-clicked to produce a menu of
+          additional actions.
+
+<br><br> <br><img src="how_cards.png">
+<br>
+                    <h3 style="font-size:22px">2. Card Decks</h3>
+          <p style="font-size:18px;">Before the game begins, all of the cards can be found on the main screen, just
+          below the map. The module is designed so that most of the time you will be drawing & using cards right on 
+          the main map screen--minimizing the amount of subwindows needed.
+
+<br><br> <br><img src="how_tuck.png">
+<br>
+                    <h3 style="font-size:22px">3. Arts of War Cards</h3>
+          <p style="font-size:18px;">Just below the main decks are the Arts of War "hands" for each player. Clicking one
+          of the "Draw" buttons will draw a card -- note that it will remain masked/hidden from your opponent until you 
+          either play it (or manually "flip it over" e.g. with Ctrl+F). These buttons can be used for randomly drawing
+          events, and the card slots can also be used to retain held events. 
+          <br><br>
+
+          Right+Clicking on an Arts of War deck will bring up the "Draw Specific Cards" menu when you need to sort through
+          the deck to find a particular capability. Select the card(s) you want from the menu, click Okay, and then drag from
+          the top of the deck to pick the card you want.
+          <br><br>
+
+          Discarded Events can be reshuffled into the Arts of War deck by right+clicking the discard pile. Dragging a card
+          directly into the Arts of War draw pile also automatically "shuffles it in" -- the next time you draw a card it
+          will be a random one.
+          <br><br>
+
+          By dragging them to the appropriate position, Arts of War cards can be tucked underneath a Lord's Mat (e.g. to 
+          give him a Capability). They can also be tucked under the bottom edge of the map board in the case of All Lords 
+          capabilities. 
+          <br><br>
+
+<br><br> <br><img src="how_plan.png">
+<br>
+<h3 style="font-size:22px">4. Command Cards</h3>
+          <p style="font-size:18px;">Although all of the Command Cards also begin the game in their respective decks below the 
+          map, you will of course need to organize them into a plan each turn. To make your plan, first open the Planning screen
+          for your side by clicking the appropriate button on the toolbar (or by pressing Alt+C if you are playing the Christians 
+          or Alt+M if you are playing the Muslims). Next, click the "Click to Start a New Plan" button--this will summon all of your side's
+          Command Cards to this window and organize them into appropriate piles by Lord. Then, drag a Command Card into each of
+          the planning slots -- eight if a summer turn, seven otherwise. While planning you can freely drag the cards around the
+          screen.
+          <br><br>
+          Once you are satisfied with your plan, click the "Click To Send Plan to Deck" button. The cards you selected by placing
+          them in the planning slots will now be sent to your side's deck on the main screen, all the the proper order (the card
+          you put in the "1st Card" slot will be the top card of the deck, the "2nd Card" will be the next card, etc). You may now
+          close the planning window, as you will not need it again until next turn.
+          <br><br>
+          Back on the main map screen, you can right+click the Command Card deck when you are ready to draw your next Command Card; 
+          or alternatively you can manually drag it off yourself: either way will reveal and announce it.
+          <br><br>
+          When the turn is over and it is time to construct a new plan for the next turn, simply repeat these steps--when you again
+          click the "Click to Start a New Plan" button on your planning screen, all of your Command Cards will be returned to the
+          planning screen and reorganized, etc.
+
+<br><br> <br><img src="how_cylinder.png">
+<br>
+              <h3 style="font-size:22px">5. Lord Cylinders</h3>
+
+              <p style="font-size:18px;">When you start a scenario, the Lord Cylinders will be distributed appropriately around
+              the map and on the Calendar. Right+clicking a Lord's Cylinder will bring up a context menu for relevant Lord actions.
+              In particular, a Lord can be <b>mustered</b> from this menu (or pressing Ctrl+M with the cylinder selected)--this will
+              automatically add the Lord's Mat to his side's main area (the Mat can then optionally be sent to the Hidden Lords screen
+              if playing with those rules). Likewise, a Lord can be <b>disbanded</b> from his cylinder's right+click context menu.
+              Disbanding a Lord will automatically remove his Lord Mat (and its contents), and will send his Lord Cylinder to the
+              appropriate space on the Calendar.
+              <br><br>
+              <b>Note:</b> It is presently up to the players to determine if a Lord is being disbanded past his Service limit
+              and therefore should be removed from play. The option to remove a Lord from the game is also present on his Cylinder's 
+              context menu--or the Cylinder can be dragged manually to the Removed From Game window.
+
+<br><br> <br><img src="how_service.png">
+<br>
+              <h3 style="font-size:22px">6. Service Markers</h3>
+
+              <p style="font-size:18px;">When a Lord is mustered, his Service Marker is automatically placed on the Calendar. The
+              Service Marker can then be dragged from space to space on the Calendar as shifts are called for during play. Right+clicking
+              a Service Marker will open a context menu which provides an alternate way to <b>disband</b> or <b>remove</b> a Lord and
+              his Lord Mat.
+
+<br><br> <br><img src="how_vassals.png">
+<br>
+              <h3 style="font-size:22px">7. Vassal Service Markers</h3>
+
+              <p style="font-size:18px;">Service Markers for <b>Vassals</b> appear on their Lord's Mat when the Lord is mustered. 
+              Right+Clicking a Vassal's Service Marker will provide the option to <b>muster that Vassal</b> (or Ctrl+M with the 
+              Service Marker selected), which will place the appropriate troops on the Lord's Mat. If playing with the <b>advanced 
+              Vassal rules</b>, you can instead select the advanced mustering option (or Alt+M with the Service Marker selected) to
+              both place the troops and send the Vassal's Service Marker to the appropriate space on the Calendar. Once on the 
+              Calendar, the Service Marker's menu will now include the option to <b>disband</b> the Vassal (returning the marker to
+              the Lord's Mat) or to remove that Vassal from the game if he is past his Service limit. 
+              <br><br>
+              <b>Note:</b> Disbanding a Vassal (e.g. from his Service Marker's context menu) does <i>not</i> automatically remove
+              any forces from the Lord's Mat--that is up to players to determine. Likewise it is presently up to the players to
+              determine if the Vassal is past his Service limit and must therefore be removed from the game. 
+
+              
+<br><br> <br><img src="how_levy.png">
+<br>
+              <h3 style="font-size:22px">8. Levy/Campaign</h3>
+<p style="font-size:18px;">The Levy/Campaign marker can be freely dragged around the Calendar to adjust the current turn. Right+Click
+the Levy/Campaign marker (or press Ctrl+F with the marker selected) to flip it between the Levy and Campaign sides. Dragging the marker
+to a new turn will automatically flip it back to Levy.
+
+<br><br> <br><img src="how_vp.png">
+<br>
+              <h3 style="font-size:22px">9. Victory Points and Markers</h3>
+<p style="font-size:18px;">The two Victory markers will automatically move whenever their side's score changes due to the
+addition or removal of a Conquered, Ravaged, Jihad, or Cathedral marker. It will likewise move automatically when a Taifa's
+status changes between Independent, Parias, and Reconquista. Players may also at their discretion drag and/or flip a Victory 
+marker to make manual VP adjustments.
+
+<br><br> <br><img src="how_map.png">
+<br>
+              <h3 style="font-size:22px">10. Map Locations</h3>
+<p style="font-size:18px;">Right+clicking a map location will produce a context menu useful for adding additional markers
+to that location during play. When you add a marker in this way, it will appear at the location you originally right+clicked.
+<br><br>
+
+If you have the map zoomed out, hovering over a location with the mouse will produce a tooltip window showing the details
+of the space--this can be useful for decoding the smalls symbols on the map while zoomed out. Note that the map Legend can
+also be hovered over in this way.
+
+
+                        <br><br> <br><img src="ABB Event Cards - BACKS-1917.png" width="71" height="100"<br>
+              <h3 style="font-size:22px">11. Battle Array and Battle Mat</h3>
+<p style="font-size:18px;">Just like the actual Almoravid boardgame, this module offers the option to resolve battles
+either by making a full-size Battle Array out of the relevant Lord Mats, or to use the Lord Cylinders on the smaller 
+Battle Mat. 
+<br><br>
+
+<br><br> <br><img src="how_array.png">
+<br>
+              <h3 style="font-size:22px">12. Battle Array</h3>
+<p style="font-size:18px;">The full-size Battle Array can be found at the very bottom of the main map screen, down below
+the Arts of War card slots. Lord Mats can either be teleported there via the "Send To" submenu on their Mats' right+click
+context menus, or they can be dragged there manually. Shortcut keys are also available--Ctrl+L to send a Lord to the left 
+of the array, Ctrl+C for Center, Ctrl+R for Right, and Ctrl+V for Reserve. If the "Send To" option is used, the Lord Mat 
+will be automatically rotated into an appropriate facing; rotation can also be applied manually, either from the right+click menu or by pressing
+Ctrl+[ and Ctrl+] with the Lord Mat selected. The "Send To" menu can likewise be used to send Lords back to either the
+main area (Ctrl+A) or the Hidden Lords area (Ctrl+H); again, using "Send To" will automatically restore the Lord Mat's
+default rotation.
+<br><br>
+Right+Clicking near the "Battle Array" label will produce a context menu to allow the easy addition of a <b>Pursuit Marker</b>,
+additional <b>troops</b>, and so forth.
+
+<br><br> <br><img src="how_battle_mat.png">
+<br>
+              <h3 style="font-size:22px">13. Battle Mat</h3>
+<p style="font-size:18px;">The Battle Mat can be opened from the module's toolbar or by pressing Alt+Shift+B. Once open,
+Lord Cylinders can be dragged directly into the window during resolution of the battle. 
+<br><br>
+
+Right+Clicking anywhere on the Battle Mat window will produce a context menu to allow the easy addition of a <b>Pursuit Marker</b>,
+additional <b>troops</b>, and so forth.
+
+
+<br><br> <br><img src="how_palette.png">
+<br>
+              <h3 style="font-size:22px">14. Piece Palette</h3>
+<p style="font-size:18px;">A traditional VASSAL Piece Palette is provided as an alternative way of adding forces, 
+assets, VP markers, and other sundry markers. There is no difference in game effect between markers dragged into the
+game from the palette and those added from e.g. context menus--use of one or the other is simply a matter of player
+convenience. 
+<br><br>
+Note that certain esoteric markers can <i>only</i> be added from context menus--these include the Pursuit Marker (add by
+right+clicking Battle Array label, or anywhere on the Battle Mat). Likewise Service Markers appear automatically, and only
+when the appropriate Lord is mustered.
+
+
+<br><br> <br><img src="how_remove.png">
+<br>
+              <h3 style="font-size:22px">15. Removing Pieces From Game</h3>
+<p style="font-size:18px;">When the rules call for a piece to be removed from the game, you can drag it to the
+Removed From Game screen, which can be opened from the module's toolbar or by pressing Alt+R. Individual Lords and
+Service Markers can also be sent directly to the Removed From Game screen by using their context menus. Accidentally-removed pieces
+can be returned to the game either by dragging them back manually or in most cases by right+clicking them.
+
+<br><br> <br><img src="how_aids.png">
+<br>
+              <h3 style="font-size:22px">16. Player Aids</h3>
+<p style="font-size:18px;">The various Almoravid player aids are available from the module's main toolbar. 
+
+
+    <br><br><h3 style="font-size:22px">17. "Flare" feature</h3><p style="font-size:18px;">Alt+Clicking on any part of the map will 
+    briefly place a circular "flare" symbol on the map in that location to call 
+    attention to that location. This symbol will appear on the opponent's map in 
+    both server and logfile/PBEM play. 
+
+<br><br> <br><img src="how_trails.png">
+<br>
+    <h3 style="font-size:22px">18. Movement Trails</h3><p style="font-size:18px;">Movement Trails can be turned on and off for 
+    all units with the buttons near the far right of toolbar or toggled by pressing Alt+O. The movement histories for all 
+    units can be cleared with the adjacent button. 
+
+</BODY>
+</HTML>
