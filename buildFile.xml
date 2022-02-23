@@ -418,7 +418,7 @@
             <VASSAL.build.module.PrototypeDefinition description="" name="Battle Mat">+/null/macro;Add Men-at-Arms \/ Crossbowmen;Add Men-at-Arms \/ Crossbowmen;57414,0,PlaceMenAtArms;;;57364\,0\,ReadyPlop,57410\,0\,DoMenAtArms;false;;;counted;;;;false;;1;1	macro;Add Militia \/ Bowmen;Add Militia \/ Bowmen;57413,0,PlaceMilitia;;;57364\,0\,ReadyPlop,57365\,0\,DoMilitia;false;;;counted;;;;false;;1;1\	menuSeparator;;\\	macro;Place Teuton Pursuit Marker;Place Teuton Pursuit Marker;57412,0,PlaceTeutonPursuitMarker;;;57364\,0\,ReadyPlop,57409\,0\,DoPursuitTeuton;false;;;counted;;;;false;;1;1\\\	macro;Place Russian Pursuit Marker;Place Russian Pursuit Marker;57411,0,PlaceRussianPursuitMarker;;;57364\,0\,ReadyPlop,57408\,0\,DoPursuitRussian;false;;;counted;;;;false;;1;1\\\\	menuSeparator;;\\\\\	macro;Place Teuton Siege Marker;□ Add Teuton Siege Marker;57391,0,PlaceTeutonSiegeMarker;;;57364\,0\,ReadyPlop,57380\,0\,DoTeutonSiegeMarker;false;;;counted;;;;false;;1;1\\\\\\	macro;Place Russian Siege Marker;■ Add Russian Siege Marker;57390,0,PlaceRussianSiegeMarker;;;57364\,0\,ReadyPlop,57381\,0\,DoRussianSiegeMarker;false;;;counted;;;;false;;1;1\\\\\\\	placemark;;57365,0,DoMilitia;+\/null\/prototype\;Militia\\\\\\\\\	piece\;\;\;\;Militia\/\\\\\\\\\	null\;56\;113\;1232\;0;null;0;0;false;57354,0,PLOP;DoMilitia;1241;0;false\\\\\\\\	placemark;;57410,0,DoMenAtArms;+\/null\/prototype\;Men-at-Arms\\\\\\\\\\	piece\;\;\;\;Men-at-Arms\/\\\\\\\\\\	null\;37\;32\;1231\;0;null;0;0;false;57354,0,PLOP;DoMenAtArms;1240;0;false\\\\\\\\\	placemark;;57409,0,DoPursuitTeuton;+\/null\/prototype\;Pursuit Marker Start Teuton\\\\\\\\\\\	piece\;\;\;\;Pursuit Marker\/\\\\\\\\\\\	null\;63\;109\;1239\;0;null;0;0;false;57354,0,PLOP;DoPursuitTeuton;1239;0;false\\\\\\\\\\	placemark;;57408,0,DoPursuitRussian;+\/null\/prototype\;Pursuit Marker Start Russian\\\\\\\\\\\\	piece\;\;\;\;Pursuit Marker\/\\\\\\\\\\\\	null\;63\;109\;1238\;0;null;0;0;false;57354,0,PLOP;DoPursuitRussian;1238;0;false\\\\\\\\\\\	placemark;;57381,0,DoRussianSiegeMarker;+\/null\/prototype\;Siege Marker Start Russian\\\\\\\\\\\\\	piece\;\;\;\;Siege Marker\/\\\\\\\\\\\\\	null\;53\;54\;1085\;0;null;0;0;false;57354,0,PLOP;DoRussianSiegeMarker;1237;0;false\\\\\\\\\\\\	placemark;;57380,0,DoTeutonSiegeMarker;+\/null\/prototype\;Siege Marker Start Teuton\\\\\\\\\\\\\\	piece\;\;\;\;Siege Marker\/\\\\\\\\\\\\\\	null\;53\;54\;1084\;0;null;0;0;false;57354,0,PLOP;DoTeutonSiegeMarker;1236;0;false\\\\\\\\\\\\\	prototype;Plopper\\\\\\\\\\\\\\	immob;;V;R;\\\\\\\\\\\\\\\	mark;Layer\\\\\\\\\\\\\\\\	emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;BattleMask1-5.png;;true;;;;false;;1;1;true;65,130;;;;1.0\\\\\\\\\\\\\\\\\	piece;;;;/	\	\\	\\\	\\\\	\\\\\	\\\\\\	\\\\\\\	\\\\\\\\	\\\\\\\\\	\\\\\\\\\\	\\\\\\\\\\\	\\\\\\\\\\\\	\\\\\\\\\\\\\	\\\\\\\\\\\\\\	\\\\\\\\\\\\\\\	Locations\\\\\\\\\\\\\\\\	1\\\\\\\\\\\\\\\\\	null;0;0;;0</VASSAL.build.module.PrototypeDefinition>
             <VASSAL.build.module.PrototypeDefinition description="" name="Battle Array Label">+/null/prototype;Battle Array Space	emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;BattleArrayMask.png;;true;;;;false;;1;1;true;65,130;;;;1.0\	rotate;4;;;;;;;;;;;;true\\	emb2;;128;A;;128;;;128;;;;1;false;0;0;BattleArrayLabel.png;;true;;;;false;;1;1;false;;;;;1.0\\\	piece;;;;/	1\	1\\	-1\\\	null;135;627;;0</VASSAL.build.module.PrototypeDefinition>
             <VASSAL.build.module.PrototypeDefinition description="" name="Battle Array Space">+/null/macro;Add Men-at-Arms \/ Crossbowmen;Add Men-at-Arms \/ Crossbowmen;57395,0,PlaceMenAtArms;;;57349\,0\,ReadyPlop,57390\,0\,DoMenAtArms;false;;;counted;;;;false;;1;1	macro;Add Militia \/ Bowmen;Add Militia \/ Bowmen;57394,0,PlaceMilitia;;;57349\,0\,ReadyPlop,57391\,0\,DoMilitia;false;;;counted;;;;false;;1;1\	menuSeparator;;\\	macro;Place Teuton Pursuit Marker;Place Teuton Pursuit Marker;57393,0,PlaceTeutonPursuitMarker;;;57349\,0\,ReadyPlop,57389\,0\,DoPursuitTeuton;false;;;counted;;;;false;;1;1\\\	macro;Place Russian Pursuit Marker;Place Russian Pursuit Marker;57392,0,PlaceRussianPursuitMarker;;;57349\,0\,ReadyPlop,57388\,0\,DoPursuitRussian;false;;;counted;;;;false;;1;1\\\\	menuSeparator;;\\\\\	macro;Place Teuton Siege Marker;□ Add Teuton Siege Marker;57373,0,PlaceTeutonSiegeMarker;;;57349\,0\,ReadyPlop,57362\,0\,DoTeutonSiegeMarker;false;;;counted;;;;false;;1;1\\\\\\	macro;Place Russian Siege Marker;■ Add Russian Siege Marker;57372,0,PlaceRussianSiegeMarker;;;57349\,0\,ReadyPlop,57363\,0\,DoRussianSiegeMarker;false;;;counted;;;;false;;1;1\\\\\\\	placemark;;57391,0,DoMilitia;+\/null\/prototype\;Militia\\\\\\\\\	piece\;\;\;\;Militia\/\\\\\\\\\	null\;56\;113\;1232\;0;null;0;0;false;57346,0,PLOP;DoMilitia;1232;0;false\\\\\\\\	placemark;;57390,0,DoMenAtArms;+\/null\/prototype\;Men-at-Arms\\\\\\\\\\	piece\;\;\;\;Men-at-Arms\/\\\\\\\\\\	null\;37\;32\;1231\;0;null;0;0;false;57346,0,PLOP;DoMenAtArms;1231;0;false\\\\\\\\\	placemark;;57389,0,DoPursuitTeuton;+\/null\/prototype\;Pursuit Marker Sideways Start Teuton\\\\\\\\\\\	piece\;\;\;\;Pursuit Marker\/\\\\\\\\\\\	null\;37\;32\;1233\;0;null;0;0;false;57346,0,PLOP;DoPursuitTeuton;1233;0;false\\\\\\\\\\	placemark;;57388,0,DoPursuitRussian;+\/null\/prototype\;Pursuit Marker Sideways Start Russian\\\\\\\\\\\\	piece\;\;\;\;Pursuit Marker\/\\\\\\\\\\\\	null\;37\;32\;1229\;0;null;0;0;false;57346,0,PLOP;DoPursuitRussian;1229;0;false\\\\\\\\\\\	placemark;;57363,0,DoRussianSiegeMarker;+\/null\/prototype\;Siege Marker Start Russian\\\\\\\\\\\\\	piece\;\;\;\;Siege Marker\/\\\\\\\\\\\\\	null\;53\;54\;1085\;0;null;0;0;false;57346,0,PLOP;DoRussianSiegeMarker;1228;0;false\\\\\\\\\\\\	placemark;;57362,0,DoTeutonSiegeMarker;+\/null\/prototype\;Siege Marker Start Teuton\\\\\\\\\\\\\\	piece\;\;\;\;Siege Marker\/\\\\\\\\\\\\\\	null\;53\;54\;1084\;0;null;0;0;false;57346,0,PLOP;DoTeutonSiegeMarker;1227;0;false\\\\\\\\\\\\\	immob;gB;V;R\\\\\\\\\\\\\\	prototype;Plopper\\\\\\\\\\\\\\\	mark;Layer\\\\\\\\\\\\\\\\	piece;;;;/	\	\\	\\\	\\\\	\\\\\	\\\\\\	\\\\\\\	\\\\\\\\	\\\\\\\\\	\\\\\\\\\\	\\\\\\\\\\\	\\\\\\\\\\\\	\\\\\\\\\\\\\	\\\\\\\\\\\\\\	\\\\\\\\\\\\\\\	Locations\\\\\\\\\\\\\\\\	null;37;32;;0</VASSAL.build.module.PrototypeDefinition>
-            <VASSAL.build.module.PrototypeDefinition description="" name="Legend Box">+/null/prototype;Trails Control	sendto;;71,715;Main Map;;4323;3175;;;0;0;0;0;;L;;;;\	prototype;Adjustable\\	delete;;57416,0,DoDelete;DoDelete\\\	immob;cgZ;V;R;\\\\	mark;Layer\\\\\	emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;legend-mask.png,legend.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;70,130;;;1.0\\\\\\	mark;LegendBox\\\\\\\	piece;;;;/	;;\	\\	\\\	\\\\	Locations\\\\\	1\\\\\\	Y\\\\\\\	null;135;37;;0</VASSAL.build.module.PrototypeDefinition>
+            <VASSAL.build.module.PrototypeDefinition description="" name="Legend Box">+/null/prototype;Trails Control	sendto;;71,715;Main Map;;2314;1364;;;0;0;0;0;;L;;;;\	prototype;Adjustable\\	delete;;57404,0,DoDelete;DoDelete\\\	immob;cgZ;V;R;\\\\	mark;Layer\\\\\	emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;LegendMask.png,Legend.png;,;true;;;;true;DrawingMouseoverIndex;1;1;true;65,130;70,130;;;1.0\\\\\\	mark;LegendBox\\\\\\\	piece;;;;/	;;\	\\	\\\	\\\\	Locations\\\\\	1\\\\\\	Y\\\\\\\	null;118;50;;0</VASSAL.build.module.PrototypeDefinition>
             <VASSAL.build.module.folder.PrototypeFolder desc="" name="Command Card Planning Screens">
                 <VASSAL.build.module.folder.PrototypeFolder desc="" name="Planning Buttons">
                     <VASSAL.build.module.PrototypeDefinition description="" name="Start Plan Teuton">+/null/report;57416\,0\,StartNewPlan;All Teuton Command Cards returned to stockpiles.;;;;false	globalkey;;57416,0,StartNewPlan;57373,0,CommandCardRESET;;false;1;true;true;;;-1;COUNTER|false|MAP|||||0|0||true|CommandCardTeuton|Y|EQUALS\	immob;;V;R;\\	macro;;Start New Plan;57416,0,StartNewPlan;;;;false;;;counted;;;;false;;1;1\\\	button;57416,0,StartNewPlan;-159;-62;318;124;;false\\\\	emb2;Activate;128;A;;128;;;128;;;;1;false;0;0;Button-NewPlan.png;;true;;;;false;;1;1;true;65,130;;;;1.0\\\\\	piece;;;;/-1	\	\\	\\\	\\\\	1\\\\\	null;0;0;;0</VASSAL.build.module.PrototypeDefinition>
@@ -1038,7 +1038,7 @@
                             <VASSAL.build.module.map.boardPicker.board.Region name="Novgorod Veche" originx="4140" originy="3149"/>
                         </VASSAL.build.module.map.boardPicker.board.RegionGrid>
                     </VASSAL.build.module.map.boardPicker.board.mapgrid.Zone>
-                    <VASSAL.build.module.map.boardPicker.board.mapgrid.Zone highlightProperty="" locationFormat="$gridLocation$" name="Teuton Lords Area" path="-9,0;1837,0;1871,4897;-1,4897" useHighlight="false" useParentGrid="false">
+                    <VASSAL.build.module.map.boardPicker.board.mapgrid.Zone highlightProperty="" locationFormat="$gridLocation$" name="Teuton Lords Area" path="0,0;1831,0;1831,3800;0,3800" useHighlight="false" useParentGrid="false">
                         <VASSAL.build.module.map.boardPicker.board.RegionGrid fontsize="9" snapto="false" visible="false">
                             <VASSAL.build.module.map.boardPicker.board.Region name="Teuton Lord 1" originx="485" originy="566"/>
                             <VASSAL.build.module.map.boardPicker.board.Region name="Teuton Lord 2" originx="1353" originy="566"/>
@@ -1049,7 +1049,7 @@
                             <VASSAL.build.module.map.boardPicker.board.Region name="Teuton Lord 7" originx="918" originy="4466"/>
                         </VASSAL.build.module.map.boardPicker.board.RegionGrid>
                     </VASSAL.build.module.map.boardPicker.board.mapgrid.Zone>
-                    <VASSAL.build.module.map.boardPicker.board.mapgrid.Zone highlightProperty="" locationFormat="$gridLocation$" name="Russian Lords Area" path="5657,-1;7502,-1;7498,6376;5716,6376" useHighlight="false" useParentGrid="false">
+                    <VASSAL.build.module.map.boardPicker.board.mapgrid.Zone highlightProperty="" locationFormat="$gridLocation$" name="Russian Lords Area" path="4381,0;6210,0;6210,3800;4381,3800" useHighlight="false" useParentGrid="false">
                         <VASSAL.build.module.map.boardPicker.board.RegionGrid fontsize="9" snapto="false" visible="false">
                             <VASSAL.build.module.map.boardPicker.board.Region name="Russian Lord 1" originx="6147" originy="566"/>
                             <VASSAL.build.module.map.boardPicker.board.Region name="Russian Lord 2" originx="7025" originy="566"/>
@@ -1059,7 +1059,7 @@
                             <VASSAL.build.module.map.boardPicker.board.Region name="Russian Lord 6" originx="7025" originy="3166"/>
                         </VASSAL.build.module.map.boardPicker.board.RegionGrid>
                     </VASSAL.build.module.map.boardPicker.board.mapgrid.Zone>
-                    <VASSAL.build.module.map.boardPicker.board.mapgrid.Zone highlightProperty="" locationFormat="$gridLocation$" name="Battle Array" path="0,8498;6208,8496;6213,5629;0,5628" useHighlight="false" useParentGrid="false">
+                    <VASSAL.build.module.map.boardPicker.board.mapgrid.Zone highlightProperty="" locationFormat="$gridLocation$" name="Battle Array" path="0,8500;6210,8500;6210,5800;0,5800" useHighlight="false" useParentGrid="false">
                         <VASSAL.build.module.map.boardPicker.board.RegionGrid fontsize="9" snapto="false" visible="false">
                             <VASSAL.build.module.map.boardPicker.board.Region name="Battle Array" originx="3748" originy="7000"/>
                             <VASSAL.build.module.map.boardPicker.board.Region name="Teuton Left" originx="2332" originy="6223"/>
@@ -1076,7 +1076,7 @@
                             <VASSAL.build.module.map.boardPicker.board.Region name="Russian Reserve 3" originx="5178" originy="8023"/>
                         </VASSAL.build.module.map.boardPicker.board.RegionGrid>
                     </VASSAL.build.module.map.boardPicker.board.mapgrid.Zone>
-                    <VASSAL.build.module.map.boardPicker.board.mapgrid.Zone highlightProperty="" locationFormat="$name$" name="Nevsky Map" path="5660,3369;5657,71;1836,71;1837,3368" useHighlight="false" useParentGrid="false"/>
+                    <VASSAL.build.module.map.boardPicker.board.mapgrid.Zone highlightProperty="" locationFormat="$name$" name="Nevsky Map" path="4378,3369;4378,71;1831,71;1831,3369" useHighlight="false" useParentGrid="false"/>
                 </VASSAL.build.module.map.boardPicker.board.ZonedGrid>
             </VASSAL.build.module.map.boardPicker.Board>
         </VASSAL.build.module.map.BoardPicker>
@@ -1318,275 +1318,7 @@
                 <VASSAL.build.widget.PieceSlot entryName="Russian Lord Mat" gpid="615" height="64" width="75">+/null/mark;SlotNumber	prototype;Mat Blank Russian\	piece;;;;Russian Lord Mat/6	\	null;0;0;615;0</VASSAL.build.widget.PieceSlot>
             </VASSAL.build.module.map.SetupStack>
         </VASSAL.build.module.folder.MapSubFolder>
-        <VASSAL.build.module.folder.MapSubFolder desc="" name="Towns and Strongholds (invisible &quot;pieces&quot; that allow right-clicking on map locations)">
-            <VASSAL.build.module.folder.MapSubFolder desc="" name="Kingdoms">
-                <VASSAL.build.module.folder.MapSubFolder desc="" name="Aragón">
-                    <VASSAL.build.module.map.SetupStack location="Jaca" name="Jaca" useGridLocation="true" x="5209" y="199">
-                        <VASSAL.build.widget.PieceSlot entryName="Jaca" gpid="711" height="64" width="75">+/null/prototype;Jaca	piece;;;;Jaca/	null;0;0;711;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Pamplona" name="Pamplona" useGridLocation="true" x="4821" y="193">
-                        <VASSAL.build.widget.PieceSlot entryName="Pamplona" gpid="710" height="64" width="75">+/null/prototype;Pamplona	piece;;;;Pamplona/	null;0;0;710;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                </VASSAL.build.module.folder.MapSubFolder>
-                <VASSAL.build.module.folder.MapSubFolder desc="" name="León">
-                    <VASSAL.build.module.map.SetupStack location="Álava" name="Álava" useGridLocation="true" x="4526" y="188">
-                        <VASSAL.build.widget.PieceSlot entryName="Álava" gpid="709" height="64" width="75">+/null/prototype;Álava	piece;;;;Álava/	null;0;0;709;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Astorga" name="Astorga" useGridLocation="true" x="3133" y="391">
-                        <VASSAL.build.widget.PieceSlot entryName="Astorga" gpid="676" height="64" width="75">+/null/prototype;Astorga	piece;;;;Astorga/	null;0;0;676;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Burgos" name="Burgos" useGridLocation="true" x="4056" y="360">
-                        <VASSAL.build.widget.PieceSlot entryName="Burgos" gpid="1086" height="64" width="75">+/null/prototype;Burgos	piece;;;;Burgos/	null;0;0;1086;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Calahorra" name="Calahorra" useGridLocation="true" x="4515" y="434">
-                        <VASSAL.build.widget.PieceSlot entryName="Calahorra" gpid="701" height="64" width="75">+/null/prototype;Calahorra	piece;;;;Calahorra/	null;0;0;701;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Coria" name="Coria" useGridLocation="true" x="3085" y="1185">
-                        <VASSAL.build.widget.PieceSlot entryName="Coria" gpid="699" height="64" width="75">+/null/prototype;Coria	piece;;;;Coria/	null;0;0;699;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Gormaz" name="Gormaz" useGridLocation="true" x="4308" y="661">
-                        <VASSAL.build.widget.PieceSlot entryName="Gormaz" gpid="700" height="64" width="75">+/null/prototype;Gormaz	piece;;;;Gormaz/	null;0;0;700;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Guadarrama" name="Guadarrama" useGridLocation="true" x="3714" y="1070">
-                        <VASSAL.build.widget.PieceSlot entryName="Guadarrama" gpid="707" height="64" width="75">+/null/prototype;Guadarrama	piece;;;;Guadarrama/	null;0;0;707;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="León" name="León" useGridLocation="true" x="3421" y="239">
-                        <VASSAL.build.widget.PieceSlot entryName="León" gpid="675" height="64" width="75">+/null/prototype;León	piece;;;;León/	null;0;0;675;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Nájera" name="Nájera" useGridLocation="true" x="4325" y="295">
-                        <VASSAL.build.widget.PieceSlot entryName="Nájera" gpid="698" height="64" width="75">+/null/prototype;Nájera	piece;;;;Nájera/	null;0;0;698;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Palencia" name="Palencia" useGridLocation="true" x="3799" y="497">
-                        <VASSAL.build.widget.PieceSlot entryName="Palencia" gpid="678" height="64" width="75">+/null/prototype;Palencia	piece;;;;Palencia/	null;0;0;678;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Peñafiel" name="Peñafiel" useGridLocation="true" x="4013" y="672">
-                        <VASSAL.build.widget.PieceSlot entryName="Peñafiel" gpid="703" height="64" width="75">+/null/prototype;Peñafiel	piece;;;;Peñafiel/	null;0;0;703;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Sahagún" name="Sahagún" useGridLocation="true" x="3670" y="333">
-                        <VASSAL.build.widget.PieceSlot entryName="Sahagún" gpid="704" height="64" width="75">+/null/prototype;Sahagún	piece;;;;Sahagún/	null;0;0;704;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Simancas" name="Simancas" useGridLocation="true" x="3707" y="719">
-                        <VASSAL.build.widget.PieceSlot entryName="Simancas" gpid="702" height="64" width="75">+/null/prototype;Simancas	piece;;;;Simancas/	null;0;0;702;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Somosierra" name="Somosierra" useGridLocation="true" x="3936" y="925">
-                        <VASSAL.build.widget.PieceSlot entryName="Somosierra" gpid="708" height="64" width="75">+/null/prototype;Somosierra	piece;;;;Somosierra/	null;0;0;708;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Tormes" name="Tormes" useGridLocation="true" x="3172" y="958">
-                        <VASSAL.build.widget.PieceSlot entryName="Tormes" gpid="705" height="64" width="75">+/null/prototype;Tormes	piece;;;;Tormes/	null;0;0;705;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Transduero" name="Transduero" useGridLocation="true" x="3486" y="882">
-                        <VASSAL.build.widget.PieceSlot entryName="Transduero" gpid="706" height="64" width="75">+/null/prototype;Transduero	piece;;;;Transduero/	null;0;0;706;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Zamora" name="Zamora" useGridLocation="true" x="3319" y="634">
-                        <VASSAL.build.widget.PieceSlot entryName="Zamora" gpid="677" height="64" width="75">+/null/prototype;Zamora	piece;;;;Zamora/	null;0;0;677;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                </VASSAL.build.module.folder.MapSubFolder>
-            </VASSAL.build.module.folder.MapSubFolder>
-            <VASSAL.build.module.folder.MapSubFolder desc="" name="Taifas">
-                <VASSAL.build.module.folder.MapSubFolder desc="" name="Badajoz">
-                    <VASSAL.build.module.map.SetupStack location="Alcántara" name="Alcántara" useGridLocation="true" x="3049" y="1477">
-                        <VASSAL.build.widget.PieceSlot entryName="Alcántara" gpid="763" height="64" width="75">+/null/prototype;Alcántara	piece;;;;Alcántara/	null;0;0;763;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Badajoz" name="Badajoz" useGridLocation="true" x="3119" y="2019">
-                        <VASSAL.build.widget.PieceSlot entryName="Badajoz" gpid="765" height="64" width="75">+/null/prototype;Badajoz	piece;;;;Badajoz/	null;0;0;765;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Mérida" name="Mérida" useGridLocation="true" x="3253" y="1720">
-                        <VASSAL.build.widget.PieceSlot entryName="Mérida" gpid="751" height="64" width="75">+/null/prototype;Mérida	piece;;;;Mérida/	null;0;0;751;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Sagrajas" name="Sagrajas" useGridLocation="true" x="3001" y="1668">
-                        <VASSAL.build.widget.PieceSlot entryName="Sagrajas" gpid="764" height="64" width="75">+/null/prototype;Sagrajas	piece;;;;Sagrajas/	null;0;0;764;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                </VASSAL.build.module.folder.MapSubFolder>
-                <VASSAL.build.module.folder.MapSubFolder desc="" name="Granada">
-                    <VASSAL.build.module.map.SetupStack location="Almería" name="Almería" useGridLocation="true" x="4505" y="2803">
-                        <VASSAL.build.widget.PieceSlot entryName="Almería" gpid="791" height="64" width="75">+/null/prototype;Almería	piece;;;;Almería/	null;0;0;791;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Granada" name="Granada" useGridLocation="true" x="4172" y="2684">
-                        <VASSAL.build.widget.PieceSlot entryName="Granada" gpid="789" height="64" width="75">+/null/prototype;Granada	piece;;;;Granada/	null;0;0;789;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Málaga" name="Málaga" useGridLocation="true" x="3866" y="2890">
-                        <VASSAL.build.widget.PieceSlot entryName="Málaga" gpid="790" height="64" width="75">+/null/prototype;Málaga	piece;;;;Málaga/	null;0;0;790;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                </VASSAL.build.module.folder.MapSubFolder>
-                <VASSAL.build.module.folder.MapSubFolder desc="" name="Lérida">
-                    <VASSAL.build.module.map.SetupStack location="Alicante" name="Alicante" useGridLocation="true" x="5294" y="2186">
-                        <VASSAL.build.widget.PieceSlot entryName="Alicante" gpid="733" height="64" width="75">+/null/prototype;Alicante	piece;;;;Alicante/	null;0;0;733;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Baniskula" name="Baniskula" useGridLocation="true" x="5307" y="1255">
-                        <VASSAL.build.widget.PieceSlot entryName="Baniskula" gpid="734" height="64" width="75">+/null/prototype;Baniskula	piece;;;;Baniskula/	null;0;0;734;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Barbastro" name="Barbastro" useGridLocation="true" x="5478" y="364">
-                        <VASSAL.build.widget.PieceSlot entryName="Barbastro" gpid="735" height="64" width="75">+/null/prototype;Barbastro	piece;;;;Barbastro/	null;0;0;735;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Burriana" name="Burriana" useGridLocation="true" x="5386" y="1387">
-                        <VASSAL.build.widget.PieceSlot entryName="Burriana" gpid="736" height="64" width="75">+/null/prototype;Burriana	piece;;;;Burriana/	null;0;0;736;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Denia" name="Denia" useGridLocation="true" x="5379" y="1966">
-                        <VASSAL.build.widget.PieceSlot entryName="Denia" gpid="737" height="64" width="75">+/null/prototype;Denia	piece;;;;Denia/	null;0;0;737;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Lérida" name="Lérida" useGridLocation="true" x="5477" y="653">
-                        <VASSAL.build.widget.PieceSlot entryName="Lérida" gpid="738" height="64" width="75">+/null/prototype;Lérida	piece;;;;Lérida/	null;0;0;738;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Tortosa" name="Tortosa" useGridLocation="true" x="5498" y="1057">
-                        <VASSAL.build.widget.PieceSlot entryName="Tortosa" gpid="739" height="64" width="75">+/null/prototype;Tortosa	piece;;;;Tortosa/	null;0;0;739;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                </VASSAL.build.module.folder.MapSubFolder>
-                <VASSAL.build.module.folder.MapSubFolder desc="" name="Sevilla">
-                    <VASSAL.build.module.map.SetupStack location="Albacete" name="Albacete" useGridLocation="true" x="4766" y="2009">
-                        <VASSAL.build.widget.PieceSlot entryName="Albacete" gpid="774" height="64" width="75">+/null/prototype;Albacete	piece;;;;Albacete/	null;0;0;774;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Alcaraz" name="Alcaraz" useGridLocation="true" x="4603" y="2193">
-                        <VASSAL.build.widget.PieceSlot entryName="Alcaraz" gpid="773" height="64" width="75">+/null/prototype;Alcaraz	piece;;;;Alcaraz/	null;0;0;773;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Aledo" name="Aledo" useGridLocation="true" x="4718" y="2365">
-                        <VASSAL.build.widget.PieceSlot entryName="Aledo" gpid="782" height="64" width="75">+/null/prototype;Aledo	piece;;;;Aledo/	null;0;0;782;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Algeciras" name="Algeciras" useGridLocation="true" x="3459" y="3097">
-                        <VASSAL.build.widget.PieceSlot entryName="Algeciras" gpid="768" height="64" width="75">+/null/prototype;Algeciras	piece;;;;Algeciras/	null;0;0;768;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Ardila" name="Ardila" useGridLocation="true" x="3094" y="2326">
-                        <VASSAL.build.widget.PieceSlot entryName="Ardila" gpid="769" height="64" width="75">+/null/prototype;Ardila	piece;;;;Ardila/	null;0;0;769;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Baeza" name="Baeza" useGridLocation="true" x="4355" y="2240">
-                        <VASSAL.build.widget.PieceSlot entryName="Baeza" gpid="779" height="64" width="75">+/null/prototype;Baeza	piece;;;;Baeza/	null;0;0;779;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Cartagena" name="Cartagena" useGridLocation="true" x="5061" y="2453">
-                        <VASSAL.build.widget.PieceSlot entryName="Cartagena" gpid="781" height="64" width="75">+/null/prototype;Cartagena	piece;;;;Cartagena/	null;0;0;781;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Córdoba" name="Córdoba" useGridLocation="true" x="3709" y="2302">
-                        <VASSAL.build.widget.PieceSlot entryName="Córdoba" gpid="775" height="64" width="75">+/null/prototype;Córdoba	piece;;;;Córdoba/	null;0;0;775;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Firrish" name="Firrish" useGridLocation="true" x="3613" y="2050">
-                        <VASSAL.build.widget.PieceSlot entryName="Firrish" gpid="770" height="64" width="75">+/null/prototype;Firrish	piece;;;;Firrish/	null;0;0;770;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Huelva" name="Huelva" useGridLocation="true" x="3095" y="2695">
-                        <VASSAL.build.widget.PieceSlot entryName="Huelva" gpid="776" height="64" width="75">+/null/prototype;Huelva	piece;;;;Huelva/	null;0;0;776;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Jaén" name="Jaén" useGridLocation="true" x="4056" y="2371">
-                        <VASSAL.build.widget.PieceSlot entryName="Jaén" gpid="778" height="64" width="75">+/null/prototype;Jaén	piece;;;;Jaén/	null;0;0;778;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Jerez" name="Jerez" useGridLocation="true" x="3240" y="2887">
-                        <VASSAL.build.widget.PieceSlot entryName="Jerez" gpid="777" height="64" width="75">+/null/prototype;Jerez	piece;;;;Jerez/	null;0;0;777;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Lorca" name="Lorca" useGridLocation="true" x="4645" y="2557">
-                        <VASSAL.build.widget.PieceSlot entryName="Lorca" gpid="780" height="64" width="75">+/null/prototype;Lorca	piece;;;;Lorca/	null;0;0;780;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Morena" name="Morena" useGridLocation="true" x="3876" y="2051">
-                        <VASSAL.build.widget.PieceSlot entryName="Morena" gpid="771" height="64" width="75">+/null/prototype;Morena	piece;;;;Morena/	null;0;0;771;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Morón" name="Morón" useGridLocation="true" x="3517" y="2791">
-                        <VASSAL.build.widget.PieceSlot entryName="Morón" gpid="772" height="64" width="75">+/null/prototype;Morón	piece;;;;Morón/	null;0;0;772;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Murcia" name="Murcia" useGridLocation="true" x="4986" y="2179">
-                        <VASSAL.build.widget.PieceSlot entryName="Murcia" gpid="783" height="64" width="75">+/null/prototype;Murcia	piece;;;;Murcia/	null;0;0;783;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Sevilla" name="Sevilla" useGridLocation="true" x="3348" y="2526">
-                        <VASSAL.build.widget.PieceSlot entryName="Sevilla" gpid="767" height="64" width="75">+/null/prototype;Sevilla	piece;;;;Sevilla/	null;0;0;767;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                </VASSAL.build.module.folder.MapSubFolder>
-                <VASSAL.build.module.folder.MapSubFolder desc="" name="Toledo">
-                    <VASSAL.build.module.map.SetupStack location="Calatrava" name="Calatrava" useGridLocation="true" x="4003" y="1800">
-                        <VASSAL.build.widget.PieceSlot entryName="Calatrava" gpid="749" height="64" width="75">+/null/prototype;Calatrava	piece;;;;Calatrava/	null;0;0;749;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Cuenca" name="Cuenca" useGridLocation="true" x="4677" y="1347">
-                        <VASSAL.build.widget.PieceSlot entryName="Cuenca" gpid="743" height="64" width="75">+/null/prototype;Cuenca	piece;;;;Cuenca/	null;0;0;743;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Guadalajara" name="Guadalajara" useGridLocation="true" x="4345" y="1062">
-                        <VASSAL.build.widget.PieceSlot entryName="Guadalajara" gpid="732" height="64" width="75">+/null/prototype;Guadalajara	piece;;;;Guadalajara/	null;0;0;732;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Júcar" name="Júcar" useGridLocation="true" x="4727" y="1778">
-                        <VASSAL.build.widget.PieceSlot entryName="Júcar" gpid="746" height="64" width="75">+/null/prototype;Júcar	piece;;;;Júcar/	null;0;0;746;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="La Mancha" name="La Mancha" useGridLocation="true" x="4471" y="1856">
-                        <VASSAL.build.widget.PieceSlot entryName="La Mancha" gpid="745" height="64" width="75">+/null/prototype;La Mancha	piece;;;;La Mancha/	null;0;0;745;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Madrid" name="Madrid" useGridLocation="true" x="4039" y="1166">
-                        <VASSAL.build.widget.PieceSlot entryName="Madrid" gpid="740" height="64" width="75">+/null/prototype;Madrid	piece;;;;Madrid/	null;0;0;740;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Muradal" name="Muradal" useGridLocation="true" x="4265" y="1987">
-                        <VASSAL.build.widget.PieceSlot entryName="Muradal" gpid="747" height="64" width="75">+/null/prototype;Muradal	piece;;;;Muradal/	null;0;0;747;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Talavera" name="Talavera" useGridLocation="true" x="3649" y="1335">
-                        <VASSAL.build.widget.PieceSlot entryName="Talavera" gpid="748" height="64" width="75">+/null/prototype;Talavera	piece;;;;Talavera/	null;0;0;748;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Toledo" name="Toledo" useGridLocation="true" x="4032" y="1495">
-                        <VASSAL.build.widget.PieceSlot entryName="Toledo" gpid="742" height="64" width="75">+/null/prototype;Toledo	piece;;;;Toledo/	null;0;0;742;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Trujillo" name="Trujillo" useGridLocation="true" x="3486" y="1591">
-                        <VASSAL.build.widget.PieceSlot entryName="Trujillo" gpid="750" height="64" width="75">+/null/prototype;Trujillo	piece;;;;Trujillo/	null;0;0;750;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Uclés" name="Uclés" useGridLocation="true" x="4381" y="1386">
-                        <VASSAL.build.widget.PieceSlot entryName="Uclés" gpid="741" height="64" width="75">+/null/prototype;Uclés	piece;;;;Uclés/	null;0;0;741;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Záncara" name="Záncara" useGridLocation="true" x="4312" y="1678">
-                        <VASSAL.build.widget.PieceSlot entryName="Záncara" gpid="744" height="64" width="75">+/null/prototype;Záncara	piece;;;;Záncara/	null;0;0;744;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                </VASSAL.build.module.folder.MapSubFolder>
-                <VASSAL.build.module.folder.MapSubFolder desc="" name="Valencia">
-                    <VASSAL.build.module.map.SetupStack location="Játiva" name="Játiva" useGridLocation="true" x="5115" y="1909">
-                        <VASSAL.build.widget.PieceSlot entryName="Játiva" gpid="788" height="64" width="75">+/null/prototype;Játiva	piece;;;;Játiva/	null;0;0;788;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Valencia" name="Valencia" useGridLocation="true" x="5130" y="1687">
-                        <VASSAL.build.widget.PieceSlot entryName="Valencia" gpid="785" height="64" width="75">+/null/prototype;Valencia	piece;;;;Valencia/	null;0;0;785;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                </VASSAL.build.module.folder.MapSubFolder>
-                <VASSAL.build.module.folder.MapSubFolder desc="" name="Zaragoza">
-                    <VASSAL.build.module.map.SetupStack location="Albarracin" name="Albarracin" useGridLocation="true" x="4967" y="1240">
-                        <VASSAL.build.widget.PieceSlot entryName="Albarracin" gpid="718" height="64" width="75">+/null/prototype;Albarracin	piece;;;;Albarracin/	null;0;0;718;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Alpuente" name="Alpuente" useGridLocation="true" x="5032" y="1459">
-                        <VASSAL.build.widget.PieceSlot entryName="Alpuente" gpid="719" height="64" width="75">+/null/prototype;Alpuente	piece;;;;Alpuente/	null;0;0;719;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Calatayud" name="Calatayud" useGridLocation="true" x="4835" y="745">
-                        <VASSAL.build.widget.PieceSlot entryName="Calatayud" gpid="714" height="64" width="75">+/null/prototype;Calatayud	piece;;;;Calatayud/	null;0;0;714;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Huesca" name="Huesca" useGridLocation="true" x="5179" y="470">
-                        <VASSAL.build.widget.PieceSlot entryName="Huesca" gpid="713" height="64" width="75">+/null/prototype;Huesca	piece;;;;Huesca/	null;0;0;713;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Ibérico" name="Ibérico" useGridLocation="true" x="5086" y="1063">
-                        <VASSAL.build.widget.PieceSlot entryName="Ibérico" gpid="717" height="64" width="75">+/null/prototype;Ibérico	piece;;;;Ibérico/	null;0;0;717;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Medinaceli" name="Medinaceli" useGridLocation="true" x="4611" y="914">
-                        <VASSAL.build.widget.PieceSlot entryName="Medinaceli" gpid="716" height="64" width="75">+/null/prototype;Medinaceli	piece;;;;Medinaceli/	null;0;0;716;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Tudela" name="Tudela" useGridLocation="true" x="4829" y="490">
-                        <VASSAL.build.widget.PieceSlot entryName="Tudela" gpid="712" height="64" width="75">+/null/prototype;Tudela	piece;;;;Tudela/	null;0;0;712;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                    <VASSAL.build.module.map.SetupStack location="Zaragoza" name="Zaragoza" useGridLocation="true" x="5174" y="831">
-                        <VASSAL.build.widget.PieceSlot entryName="Zaragoza" gpid="715" height="64" width="75">+/null/prototype;Zaragoza	piece;;;;Zaragoza/	null;0;0;715;0</VASSAL.build.widget.PieceSlot>
-                    </VASSAL.build.module.map.SetupStack>
-                </VASSAL.build.module.folder.MapSubFolder>
-            </VASSAL.build.module.folder.MapSubFolder>
-            <VASSAL.build.module.folder.MapSubFolder desc="" name="Taifa Status Spaces">
-                <VASSAL.build.module.map.SetupStack location="Lérida Taifa Status" name="Lérida" useGridLocation="false" x="5544" y="1579">
-                    <VASSAL.build.widget.PieceSlot entryName="Lérida Taifa Status" gpid="816" height="64" width="75">+/null/prototype;Taifa Status Marker	piece;;;;Lérida Taifa Status/	null;0;0;816;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Zaragoza Taifa Status" name="Zaragoza" useGridLocation="false" x="4849" y="1106">
-                    <VASSAL.build.widget.PieceSlot entryName="Zaragoza Taifa Status" gpid="817" height="64" width="75">+/null/prototype;Taifa Status Marker	piece;;;;Zaragoza Taifa Status/	null;0;0;817;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Valencia Taifa Status" name="Valencia" useGridLocation="false" x="4910" y="1600">
-                    <VASSAL.build.widget.PieceSlot entryName="Valencia Taifa Status" gpid="818" height="64" width="75">+/null/prototype;Taifa Status Marker	piece;;;;Valencia Taifa Status/	null;0;0;818;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Toledo Taifa Status" name="Toledo" useGridLocation="false" x="3733" y="1731">
-                    <VASSAL.build.widget.PieceSlot entryName="Toledo Taifa Status" gpid="819" height="64" width="75">+/null/prototype;Taifa Status Marker	piece;;;;Toledo Taifa Status/	null;0;0;819;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Badajoz Taifa Status" name="Badajoz" useGridLocation="false" x="3366" y="2163">
-                    <VASSAL.build.widget.PieceSlot entryName="Badajoz Taifa Status" gpid="820" height="64" width="75">+/null/prototype;Taifa Status Marker	piece;;;;Badajoz Taifa Status/	null;0;0;820;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Grenada Taifa Status" name="Grenada" useGridLocation="false" x="3978" y="2579">
-                    <VASSAL.build.widget.PieceSlot entryName="Grenada Taifa Status" gpid="821" height="64" width="75">+/null/prototype;Taifa Status Marker	piece;;;;Grenada Taifa Status/	null;0;0;821;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Sevilla Taifa Status" name="Sevilla 1" useGridLocation="false" x="3982" y="2161">
-                    <VASSAL.build.widget.PieceSlot entryName="Sevilla Taifa Status" gpid="822" height="64" width="75">+/null/prototype;Taifa Status Marker	piece;;;;Sevilla Taifa Status/	null;0;0;822;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Sevilla Taifa Status" name="Sevilla 2" useGridLocation="false" x="4089" y="2161">
-                    <VASSAL.build.widget.PieceSlot entryName="Sevilla Taifa Status" gpid="825" height="64" width="75">+/null/prototype;Taifa Status Marker	piece;;;;Sevilla Taifa Status/	null;0;0;825;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Sevilla Taifa Status" name="Sevilla 3" useGridLocation="false" x="4194" y="2161">
-                    <VASSAL.build.widget.PieceSlot entryName="Sevilla Taifa Status" gpid="826" height="64" width="75">+/null/prototype;Taifa Status Marker	piece;;;;Sevilla Taifa Status/	null;0;0;826;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-            </VASSAL.build.module.folder.MapSubFolder>
-        </VASSAL.build.module.folder.MapSubFolder>
+        <VASSAL.build.module.folder.MapSubFolder desc="" name="Towns and Strongholds (invisible &quot;pieces&quot; that allow right-clicking on map locations)"/>
         <VASSAL.build.module.folder.MapSubFolder desc="" name="Calendar Markers (default positions for calendar markers &amp; lord cylinders)">
             <VASSAL.build.module.map.SetupStack location="Turn 16" name="Scenario End" useGridLocation="true" x="4212" y="947">
                 <VASSAL.build.widget.PieceSlot entryName="Scenario End" gpid="1234" height="64" width="75">+/null/prototype;Scenario End Tile	piece;;;;Scenario End/	null;0;0;1234;0</VASSAL.build.widget.PieceSlot>
@@ -1598,62 +1330,6 @@
             <VASSAL.build.module.map.SetupStack location="Turn 1 Levy/Campaign" name="Levy/Campaign" useGridLocation="true" x="2085" y="217">
                 <VASSAL.build.widget.PieceSlot entryName="Levy/Campaign Marker" gpid="697" height="64" width="75">+/null/prototype;Levy Campaign	piece;;;;Levy\/Campaign Marker/	null;0;0;697;0</VASSAL.build.widget.PieceSlot>
             </VASSAL.build.module.map.SetupStack>
-            <VASSAL.build.module.folder.MapSubFolder desc="" name="Empty Turn Spaces">
-                <VASSAL.build.module.map.SetupStack location="Turn 0" name="Turn 0" useGridLocation="true" x="1660" y="4">
-                    <VASSAL.build.widget.PieceSlot entryName="Turn 0" gpid="797" height="64" width="75">+/null/prototype;Turn Space Small	piece;;;;Turn 0/	null;0;0;797;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Turn 1" name="Turn 1" useGridLocation="false" x="2147" y="2835">
-                    <VASSAL.build.widget.PieceSlot entryName="Turn 1" gpid="794" height="64" width="75">+/null/prototype;Turn Space Large	piece;;;;Turn 1/	null;0;0;794;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Turn 2" name="Turn 2" useGridLocation="false" x="2147" y="2517">
-                    <VASSAL.build.widget.PieceSlot entryName="Turn 2" gpid="795" height="64" width="75">+/null/prototype;Turn Space Large	piece;;;;Turn 2/	null;0;0;795;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Turn 3" name="Turn 3" useGridLocation="false" x="2147" y="2198">
-                    <VASSAL.build.widget.PieceSlot entryName="Turn 3" gpid="796" height="64" width="75">+/null/prototype;Turn Space Large	piece;;;;Turn 3/	null;0;0;796;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Turn 4" name="Turn 4" useGridLocation="false" x="2147" y="1878">
-                    <VASSAL.build.widget.PieceSlot entryName="Turn 4" gpid="799" height="64" width="75">+/null/prototype;Turn Space Large	piece;;;;Turn 4/	null;0;0;799;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Turn 5" name="Turn 5" useGridLocation="false" x="2147" y="1560">
-                    <VASSAL.build.widget.PieceSlot entryName="Turn 5" gpid="800" height="64" width="75">+/null/prototype;Turn Space Large	piece;;;;Turn 5/	null;0;0;800;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Turn 6" name="Turn 6" useGridLocation="false" x="2147" y="1241">
-                    <VASSAL.build.widget.PieceSlot entryName="Turn 6" gpid="801" height="64" width="75">+/null/prototype;Turn Space Large	piece;;;;Turn 6/	null;0;0;801;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Turn 7" name="Turn 7" useGridLocation="false" x="2147" y="922">
-                    <VASSAL.build.widget.PieceSlot entryName="Turn 7" gpid="802" height="64" width="75">+/null/prototype;Turn Space Large	piece;;;;Turn 7/	null;0;0;802;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Turn 8" name="Turn 8" useGridLocation="false" x="2147" y="604">
-                    <VASSAL.build.widget.PieceSlot entryName="Turn 8" gpid="803" height="64" width="75">+/null/prototype;Turn Space Large	piece;;;;Turn 8/	null;0;0;803;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Turn 9" name="Turn 9" useGridLocation="false" x="2621" y="2835">
-                    <VASSAL.build.widget.PieceSlot entryName="Turn 9" gpid="804" height="64" width="75">+/null/prototype;Turn Space Large	piece;;;;Turn 9/	null;0;0;804;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Turn 10" name="Turn 10" useGridLocation="false" x="2621" y="2518">
-                    <VASSAL.build.widget.PieceSlot entryName="Turn 10" gpid="805" height="64" width="75">+/null/prototype;Turn Space Large	piece;;;;Turn 10/	null;0;0;805;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Turn 11" name="Turn 11" useGridLocation="false" x="2621" y="2198">
-                    <VASSAL.build.widget.PieceSlot entryName="Turn 11" gpid="806" height="64" width="75">+/null/prototype;Turn Space Large	piece;;;;Turn 11/	null;0;0;806;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Turn 12" name="Turn 12" useGridLocation="false" x="2621" y="1879">
-                    <VASSAL.build.widget.PieceSlot entryName="Turn 12" gpid="807" height="64" width="75">+/null/prototype;Turn Space Large	piece;;;;Turn 12/	null;0;0;807;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Turn 13" name="Turn 13" useGridLocation="false" x="2621" y="1561">
-                    <VASSAL.build.widget.PieceSlot entryName="Turn 13" gpid="808" height="64" width="75">+/null/prototype;Turn Space Large	piece;;;;Turn 13/	null;0;0;808;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Turn 14" name="Turn 14" useGridLocation="false" x="2621" y="1242">
-                    <VASSAL.build.widget.PieceSlot entryName="Turn 14" gpid="809" height="64" width="75">+/null/prototype;Turn Space Large	piece;;;;Turn 14/	null;0;0;809;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Turn 15" name="Turn 15" useGridLocation="false" x="2621" y="922">
-                    <VASSAL.build.widget.PieceSlot entryName="Turn 15" gpid="810" height="64" width="75">+/null/prototype;Turn Space Large	piece;;;;Turn 15/	null;0;0;810;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Turn 16" name="Turn 16" useGridLocation="false" x="2621" y="604">
-                    <VASSAL.build.widget.PieceSlot entryName="Turn 16" gpid="811" height="64" width="75">+/null/prototype;Turn Space Large	piece;;;;Turn 16/	null;0;0;811;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-                <VASSAL.build.module.map.SetupStack location="Turn 17" name="Turn 17" useGridLocation="true" x="4445" y="897">
-                    <VASSAL.build.widget.PieceSlot entryName="Turn 17" gpid="798" height="64" width="75">+/null/prototype;Turn Space Small	piece;;;;Turn 17/	null;0;0;798;0</VASSAL.build.widget.PieceSlot>
-                </VASSAL.build.module.map.SetupStack>
-            </VASSAL.build.module.folder.MapSubFolder>
             <VASSAL.build.module.folder.MapSubFolder desc="" name="Default Lord Cylinder Start">
                 <VASSAL.build.module.map.SetupStack location="Oceanus" name="Yaroslav" owningBoard="Nevsky" useGridLocation="false" x="2729" y="3199">
                     <VASSAL.build.widget.PieceSlot entryName="Yaroslav - Exile of Pskov" gpid="1002" height="64" width="75">+/null/prototype;Yaroslav	piece;;;;/	null;0;0;1002;0</VASSAL.build.widget.PieceSlot>
@@ -1705,7 +1381,7 @@
             </VASSAL.build.module.map.SetupStack>
         </VASSAL.build.module.folder.MapSubFolder>
         <VASSAL.build.module.folder.MapSubFolder desc="" name="Legend Box">
-            <VASSAL.build.module.map.SetupStack location="Legend" name="Legend" useGridLocation="false" x="4323" y="3175">
+            <VASSAL.build.module.map.SetupStack location="Legend" name="Legend" useGridLocation="false" x="2314" y="1364">
                 <VASSAL.build.widget.PieceSlot entryName="Legend" gpid="1246" height="64" width="75">+/null/prototype;Legend Box	piece;;;;Legend/	null;0;0;1246;0</VASSAL.build.widget.PieceSlot>
             </VASSAL.build.module.map.SetupStack>
         </VASSAL.build.module.folder.MapSubFolder>
@@ -1760,14 +1436,14 @@
     <VASSAL.build.module.PieceWindow defaultWidth="240" hidden="false" hotkey="80,520" icon="Button-Pieces.png" name="Pieces" scale="1.0" text="" tooltip="Pieces window">
         <VASSAL.build.widget.TabWidget entryName="Markers">
             <VASSAL.build.widget.PanelWidget entryName="Forces" fixed="true" nColumns="4" scale="0.6" vert="false">
-                <VASSAL.build.widget.PieceSlot entryName="Knights" gpid="658" height="38" width="45">+/null/prototype;Knights	piece;;;;Knights/	null;0;-26;658;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Sergeants" gpid="660" height="38" width="45">+/null/prototype;Sergeants	piece;;;;Sergeants/	null;0;-26;660;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Asiatic Horse" gpid="0" height="38" width="45">+/null/prototype;Asiatic Horse	piece;;;;/	null;29;37;0;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Light Horse" gpid="662" height="38" width="45">+/null/prototype;Light Horse	piece;;;;/	null;0;-26;662;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Serfs" gpid="672" height="38" width="45">+/null/prototype;Serfs	piece;;;;Serfs/	null;0;-26;672;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Men-at-Arms" gpid="664" height="38" width="45">+/null/prototype;Men-at-Arms	piece;;;;Men-at-Arms/	null;0;-26;664;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="African Foot" gpid="666" height="38" width="45">+/null/prototype;African Foot	piece;;;;African Foot/	null;0;-26;666;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Militia" gpid="670" height="38" width="45">+/null/prototype;Militia	piece;;;;Militia/	null;0;-26;670;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Knights" gpid="658" height="67" width="67">+/null/prototype;Knights	piece;;;;Knights/	null;0;-26;658;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Sergeants" gpid="660" height="67" width="67">+/null/prototype;Sergeants	piece;;;;Sergeants/	null;0;-26;660;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Asiatic Horse" gpid="0" height="67" width="67">+/null/prototype;Asiatic Horse	piece;;;;/	null;0;-26;0;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Light Horse" gpid="662" height="67" width="67">+/null/prototype;Light Horse	piece;;;;/	null;0;-26;662;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Serfs" gpid="672" height="67" width="67">+/null/prototype;Serfs	piece;;;;Serfs/	null;0;-26;672;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Men-at-Arms" gpid="664" height="67" width="67">+/null/prototype;Men-at-Arms	piece;;;;Men-at-Arms/	null;0;-26;664;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="African Foot" gpid="666" height="67" width="67">+/null/prototype;African Foot	piece;;;;African Foot/	null;0;-26;666;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Militia" gpid="670" height="67" width="67">+/null/prototype;Militia	piece;;;;Militia/	null;0;-26;670;0</VASSAL.build.widget.PieceSlot>
             </VASSAL.build.widget.PanelWidget>
             <VASSAL.build.widget.PanelWidget entryName="Assets" fixed="true" nColumns="5" scale="0.42" vert="false">
                 <VASSAL.build.widget.PieceSlot entryName="Cart" gpid="432" height="26" width="31">+/null/prototype;Cart Marker 1	piece;;;;Cart/	null;0;0;432;0</VASSAL.build.widget.PieceSlot>
