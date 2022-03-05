@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <data version="1">
   <version>2.0</version>
-  <VassalVersion>3.6.5</VassalVersion>
-  <dateSaved>1645909467025</dateSaved>
+  <VassalVersion>3.6.6-SNAPSHOT-9a52946-master</VassalVersion>
+  <dateSaved>1646518740251</dateSaved>
   <description>Volko Ruhnke's Game of Teutons and Rus in Collision, 1240-1242</description>
   <name>Nevsky</name>
 </data>
