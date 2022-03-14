@@ -1086,9 +1086,9 @@
         <VASSAL.build.module.map.LayeredPieceCollection layerOrder="Locations,Cards,Mats,Markers,Forces" property="Layer"/>
         <VASSAL.build.module.folder.MapSubFolder desc="" name="Movement Trails">
             <VASSAL.build.module.ToolbarMenu canDisable="false" description="Move Trails" hotkey="79,585" icon="Button-Trails.png" menuItems="Move Trails Toggle (Alt+O),Move Trails On (Alt+Shift+O),Move Trails Off (Alt+Ctrl+O)" propertyGate="" text="" tooltip="Move Trail Options"/>
-            <VASSAL.build.module.map.MassKeyCommand buttonHotkey="79,520" buttonText="Move Trails Toggle (Alt+O)" canDisable="false" deckCount="-1" filter="{LegendBox == &quot;Y&quot;}" hotkey="57563,0,GlobalTrailsTOGGLE" icon="Button-Trails.png" name="Move Trails Toggle (Alt+O)" propertyGate="" reportFormat="" reportSingle="false" singleMap="true" target="MAP|false|MAP|||||0|0||false|||EQUALS" tooltip="Toggle movement trails for all units"/>
-            <VASSAL.build.module.map.MassKeyCommand buttonHotkey="79,585" buttonText="Move Trails On (Alt+Shift+O)" canDisable="false" deckCount="-1" filter="{LegendBox == &quot;Y&quot;}" hotkey="57559,0,GlobalTrailsON" icon="button_trails_on.png" name="Move Trails On (Alt+Shift+O)" propertyGate="" reportFormat="" reportSingle="false" singleMap="true" target="MAP|false|MAP|||||0|0||false|||EQUALS" tooltip="Turn on movement trails for all units"/>
-            <VASSAL.build.module.map.MassKeyCommand buttonHotkey="79,650" buttonText="Move Trails Off (Alt+Ctrl+O)" canDisable="false" deckCount="-1" filter="{LegendBox == &quot;Y&quot;}" hotkey="57561,0,GlobalTrailsOFF" icon="button_trails_off.png" name="Move Trails Off (Alt+Ctrl+O)" propertyGate="" reportFormat="" reportSingle="false" singleMap="true" target="MAP|false|MAP|||||0|0||false|||EQUALS" tooltip="Turn off movement trails for all units"/>
+            <VASSAL.build.module.map.MassKeyCommand buttonHotkey="79,520" buttonText="Move Trails Toggle (Alt+O)" canDisable="false" deckCount="-1" filter="{LegendBox == &quot;Y&quot;}" hotkey="57561,0,GlobalTrailsTOGGLE" icon="Button-Trails.png" name="Move Trails Toggle (Alt+O)" propertyGate="" reportFormat="" reportSingle="false" singleMap="true" target="MAP|false|MAP|||||0|0||false|||EQUALS" tooltip="Toggle movement trails for all units"/>
+            <VASSAL.build.module.map.MassKeyCommand buttonHotkey="79,585" buttonText="Move Trails On (Alt+Shift+O)" canDisable="false" deckCount="-1" filter="{LegendBox == &quot;Y&quot;}" hotkey="57557,0,GlobalTrailsON" icon="button_trails_on.png" name="Move Trails On (Alt+Shift+O)" propertyGate="" reportFormat="" reportSingle="false" singleMap="true" target="MAP|false|MAP|||||0|0||false|||EQUALS" tooltip="Turn on movement trails for all units"/>
+            <VASSAL.build.module.map.MassKeyCommand buttonHotkey="79,650" buttonText="Move Trails Off (Alt+Ctrl+O)" canDisable="false" deckCount="-1" filter="{LegendBox == &quot;Y&quot;}" hotkey="57559,0,GlobalTrailsOFF" icon="button_trails_off.png" name="Move Trails Off (Alt+Ctrl+O)" propertyGate="" reportFormat="" reportSingle="false" singleMap="true" target="MAP|false|MAP|||||0|0||false|||EQUALS" tooltip="Turn off movement trails for all units"/>
         </VASSAL.build.module.folder.MapSubFolder>
         <VASSAL.build.module.folder.MapSubFolder desc="" name="Rollover (Mouseover Stack Viewers)">
             <VASSAL.build.module.map.CounterDetailViewer bgColor="225,209,175" borderWidth="10" centerAll="true" centerText="true" combineCounterSummary="true" counterReportFormat="&lt;div style=&quot;position:absolute; margin-top:-21; margin-bottom:-21; font-size:11px;&quot;&gt;&lt;b&gt;$RolloverName$&lt;/b&gt;&lt;/div&gt;" delay="700" description="At a location" display="from top-most layer only" emptyHexReportForma="$LocationName$" enableHTML="true" extraTextPadding="5" fgColor="0,0,0" fontSize="20" graphicsZoom="1.0" hotkey="32,130" layerList="" minDisplayPieces="1" propertyFilter="{CurrentMat == &quot;&quot; &amp;&amp; Layer != &quot;Mats&quot; &amp;&amp; TurnTrack != &quot;Y&quot; &amp;&amp; CurrentZone != &quot;Decks&quot;}" showDeck="true" showDeckDepth="100" showDeckMasked="false" showMoveSelectde="false" showNoStack="true" showNonMovable="false" showOverlap="true" showgraph="true" showgraphsingle="false" showtext="true" showtextsingle="false" stretchWidthSummary="true" summaryReportFormat="&lt;b&gt;$LocationName$&lt;/b&gt;" unrotatePieces="false" version="3" verticalOffset="20" verticalTopText="0" zoomlevel="1.0"/>
@@ -1636,14 +1636,14 @@
     <VASSAL.build.module.PieceWindow defaultWidth="240" hidden="false" hotkey="80,520" icon="Button-Pieces.png" name="Pieces" scale="1.0" text="" tooltip="Pieces window">
         <VASSAL.build.widget.TabWidget entryName="Markers">
             <VASSAL.build.widget.PanelWidget entryName="Forces" fixed="true" nColumns="4" scale="0.6" vert="false">
-                <VASSAL.build.widget.PieceSlot entryName="Knights" gpid="658" height="38" width="45">+/null/prototype;Knights	piece;;;;Knights/	null;0;-26;658;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Sergeants" gpid="660" height="38" width="45">+/null/prototype;Sergeants	piece;;;;Sergeants/	null;0;-26;660;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Light Horse" gpid="662" height="38" width="45">+/null/prototype;Light Horse	piece;;;;/	null;0;-26;662;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Asiatic Horse" gpid="0" height="38" width="45">+/null/prototype;Asiatic Horse	piece;;;;/	null;0;-26;0;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="" gpid="1659" height="0" width="0">+/null/prototype;No Marker	piece;;;;/	null;0;-26;1659;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Men-at-Arms" gpid="664" height="38" width="45">+/null/prototype;Men-at-Arms	piece;;;;Men-at-Arms/	null;0;-26;664;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Militia" gpid="670" height="38" width="45">+/null/prototype;Militia	piece;;;;Militia/	null;0;-26;670;0</VASSAL.build.widget.PieceSlot>
-                <VASSAL.build.widget.PieceSlot entryName="Serfs" gpid="672" height="38" width="45">+/null/prototype;Serfs	piece;;;;Serfs/	null;0;-26;672;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Knights" gpid="658" height="67" width="67">+/null/prototype;Knights	piece;;;;Knights/	null;0;0;658;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Sergeants" gpid="660" height="67" width="67">+/null/prototype;Sergeants	piece;;;;Sergeants/	null;0;0;660;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Light Horse" gpid="662" height="67" width="67">+/null/prototype;Light Horse	piece;;;;/	null;0;0;662;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Asiatic Horse" gpid="0" height="67" width="67">+/null/prototype;Asiatic Horse	piece;;;;/	null;0;0;0;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="" gpid="1659" height="0" width="0">+/null/prototype;No Marker	piece;;;;/	null;0;0;1659;1;ppScale;0.6</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Men-at-Arms" gpid="664" height="67" width="67">+/null/prototype;Men-at-Arms	piece;;;;Men-at-Arms/	null;0;0;664;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Militia" gpid="670" height="67" width="67">+/null/prototype;Militia	piece;;;;Militia/	null;0;0;670;0</VASSAL.build.widget.PieceSlot>
+                <VASSAL.build.widget.PieceSlot entryName="Serfs" gpid="672" height="67" width="67">+/null/prototype;Serfs	piece;;;;Serfs/	null;0;0;672;0</VASSAL.build.widget.PieceSlot>
             </VASSAL.build.widget.PanelWidget>
             <VASSAL.build.widget.PanelWidget entryName="Assets" fixed="true" nColumns="7" scale="0.42" vert="false">
                 <VASSAL.build.widget.PieceSlot entryName="Boat" gpid="453" height="26" width="31">+/null/prototype;Boat Marker 1	piece;;;;Boat/	null;0;0;453;0</VASSAL.build.widget.PieceSlot>
@@ -1717,7 +1717,7 @@
         </VASSAL.build.widget.TabWidget>
     </VASSAL.build.module.PieceWindow>
     <VASSAL.build.module.folder.ModuleSubFolder desc="Hands &amp; Hidden Lords" name="Private Windows">
-        <VASSAL.build.module.PrivateMap allowMultiple="false" backgroundcolor="255,255,255" buttonName="" changeFormat="$message$" color="0,0,0" createFormat="" description="" edgeHeight="0" edgeWidth="0" hideKey="" hotkey="67,520" icon="Button-ChristianHand.png" launch="true" mapName="Teuton Hand" markMoved="Never" markUnmovedHotkey="" markUnmovedIcon="/images/unmoved.gif" markUnmovedReport="" markUnmovedText="" markUnmovedTooltip="Mark all pieces on this map as not moved" moveKey="57598,0,MovedInHand" moveToFormat="" moveWithinFormat="" showKey="" side="Teutons,Solitaire" thickness="3" tooltip="Teuton Command Card Planning" visible="false">
+        <VASSAL.build.module.PrivateMap allowMultiple="false" backgroundcolor="255,255,255" buttonName="" changeFormat="$message$" color="0,0,0" createFormat="" description="" edgeHeight="0" edgeWidth="0" hideKey="" hotkey="67,520" icon="Button-ChristianHand.png" launch="true" mapName="Teuton Hand" markMoved="Never" markUnmovedHotkey="" markUnmovedIcon="/images/unmoved.gif" markUnmovedReport="" markUnmovedText="" markUnmovedTooltip="Mark all pieces on this map as not moved" moveKey="57596,0,MovedInHand" moveToFormat="" moveWithinFormat="" showKey="" side="Teutons,Solitaire" thickness="3" tooltip="Teuton Command Card Planning" visible="false">
             <VASSAL.build.module.map.BoardPicker addColumnText="Add column" addRowText="Add row" boardPrompt="Select board" slotHeight="125" slotScale="0.2" slotWidth="350" title="Choose Boards">
                 <VASSAL.build.module.map.boardPicker.Board image="Background - Christian Lords.png" name="Alhambra" reversible="false">
                     <VASSAL.build.module.map.boardPicker.board.ZonedGrid>
@@ -2079,24 +2079,24 @@
         </VASSAL.build.module.map.SetupStack>
     </VASSAL.build.module.Map>
     <VASSAL.build.module.folder.ModuleSubFolder desc="" name="Dice Buttons">
-        <VASSAL.build.module.SpecialDiceButton canDisable="false" format="$name$ = &lt;img src=&quot;d6-yellow-$result1$.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;  ($result1$ rolled by $PlayerName$) &lt;span style=&quot;color:#ffffff;&quot;&gt;$result1$&lt;/b&gt;" hotkey="89,520" icon="" name="Yellow Die" propertyGate="" resultButton="true" resultChatter="true" resultWindow="false" text="" tooltip="Yellow Die" windowTitleResultFormat="$name$" windowX="32" windowY="32">
-            <VASSAL.build.module.SpecialDie format="$result$" name="Yellow Die">
-                <VASSAL.build.module.SpecialDieFace icon="d6-yellow-1.png" text="1" value="1"/>
-                <VASSAL.build.module.SpecialDieFace icon="d6-yellow-2.png" text="2" value="2"/>
-                <VASSAL.build.module.SpecialDieFace icon="d6-yellow-3.png" text="3" value="3"/>
-                <VASSAL.build.module.SpecialDieFace icon="d6-yellow-4.png" text="4" value="4"/>
-                <VASSAL.build.module.SpecialDieFace icon="d6-yellow-5.png" text="5" value="5"/>
-                <VASSAL.build.module.SpecialDieFace icon="d6-yellow-6.png" text="6" value="6"/>
+        <VASSAL.build.module.SpecialDiceButton canDisable="false" disabledIcon="" format="$name$ = &lt;img src=&quot;d6-black-0$result1$.png&quot; width=&quot;14&quot; height=&quot;14&quot;&gt;  ($result1$ rolled by $PlayerName$) &lt;span style=&quot;color:#ffffff;&quot;&gt;$result1$&lt;/b&gt;" hotkey="89,520" icon="" name="Black Die" propertyGate="" resultButton="true" resultChatter="true" resultWindow="false" text="" tooltip="Black Die" windowTitleResultFormat="$name$" windowX="32" windowY="32">
+            <VASSAL.build.module.SpecialDie format="$result$" name="Black">
+                <VASSAL.build.module.SpecialDieFace icon="d6-black-01.png" text="1" value="1"/>
+                <VASSAL.build.module.SpecialDieFace icon="d6-black-02.png" text="2" value="2"/>
+                <VASSAL.build.module.SpecialDieFace icon="d6-black-03.png" text="3" value="3"/>
+                <VASSAL.build.module.SpecialDieFace icon="d6-black-04.png" text="4" value="4"/>
+                <VASSAL.build.module.SpecialDieFace icon="d6-black-05.png" text="5" value="5"/>
+                <VASSAL.build.module.SpecialDieFace icon="d6-black-06.png" text="6" value="6"/>
             </VASSAL.build.module.SpecialDie>
         </VASSAL.build.module.SpecialDiceButton>
-        <VASSAL.build.module.SpecialDiceButton canDisable="false" format="$name$ = &lt;img src=&quot;d6-green-$result1$.png&quot; width=&quot;14&quot; height=&quot;14&quot; style=&quot;vertical-align:middle&quot;&gt;  ($result1$ rolled by $PlayerName$) &lt;span style=&quot;color:#ffffff;&quot;&gt;$result1$&lt;/b&gt;" hotkey="71,520" icon="" name="Green Die" propertyGate="" resultButton="true" resultChatter="true" resultWindow="false" text="" tooltip="Green Die" windowTitleResultFormat="$name$" windowX="32" windowY="32">
-            <VASSAL.build.module.SpecialDie format="$result$" name="Green Die">
-                <VASSAL.build.module.SpecialDieFace icon="d6-green-1.png" text="1" value="1"/>
-                <VASSAL.build.module.SpecialDieFace icon="d6-green-2.png" text="2" value="2"/>
-                <VASSAL.build.module.SpecialDieFace icon="d6-green-3.png" text="3" value="3"/>
-                <VASSAL.build.module.SpecialDieFace icon="d6-green-4.png" text="4" value="4"/>
-                <VASSAL.build.module.SpecialDieFace icon="d6-green-5.png" text="5" value="5"/>
-                <VASSAL.build.module.SpecialDieFace icon="d6-green-6.png" text="6" value="6"/>
+        <VASSAL.build.module.SpecialDiceButton canDisable="false" disabledIcon="" format="$name$ = &lt;img src=&quot;d6-white2-$result1$.png&quot; width=&quot;14&quot; height=&quot;14&quot; style=&quot;vertical-align:middle&quot;&gt;  ($result1$ rolled by $PlayerName$) &lt;span style=&quot;color:#ffffff;&quot;&gt;$result1$&lt;/b&gt;" hotkey="71,520" icon="" name="White Die" propertyGate="" resultButton="true" resultChatter="true" resultWindow="false" text="" tooltip="White Die" windowTitleResultFormat="$name$" windowX="32" windowY="32">
+            <VASSAL.build.module.SpecialDie format="$result$" name="White Die">
+                <VASSAL.build.module.SpecialDieFace icon="d6-white-1.png" text="1" value="1"/>
+                <VASSAL.build.module.SpecialDieFace icon="d6-white-2.png" text="2" value="2"/>
+                <VASSAL.build.module.SpecialDieFace icon="d6-white-3.png" text="3" value="3"/>
+                <VASSAL.build.module.SpecialDieFace icon="d6-white-4.png" text="4" value="4"/>
+                <VASSAL.build.module.SpecialDieFace icon="d6-white-5.png" text="5" value="5"/>
+                <VASSAL.build.module.SpecialDieFace icon="d6-white-6.png" text="6" value="6"/>
             </VASSAL.build.module.SpecialDie>
         </VASSAL.build.module.SpecialDiceButton>
     </VASSAL.build.module.folder.ModuleSubFolder>
