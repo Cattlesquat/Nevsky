@@ -4,6 +4,7 @@
     <VASSAL.build.module.Documentation>
         <VASSAL.build.module.documentation.AboutScreen fileName="Splash.jpg" title="About Module"/>
         <VASSAL.build.module.documentation.BrowserPDFFile pdfFile="Nevsky_RULES-FINAL.pdf" title="Rulebook"/>
+        <VASSAL.build.module.documentation.HelpFile fileName="changelist.html" fileType="archive" title="Change List"/>
     </VASSAL.build.module.Documentation>
     <VASSAL.build.module.PlayerRoster buttonIcon="system-log-out.png" buttonKeyStroke="83,130" buttonText="" buttonToolTip="Switch sides, become an observer, or allow another player to take your side in this game">
         <entry>Teutons</entry>
